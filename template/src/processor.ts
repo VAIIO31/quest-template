@@ -11,5 +11,5 @@ export const processor = new EvmBatchProcessor()
         // specify field selection here
     })
     .addLog({
-        address: [/* set of requested addresses */]
+        address: ['0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB']
     })
